@@ -84,4 +84,4 @@
 ## antipodalHamming.jpg
 
 > The plot of _systemtest.m_
-![antipodalHamming.jpg](https://raw.github.com/alexpacini/Uni.Snippets/master/TIC/assignment04_noisyap2LHamm/antipodalHamming.jpg)
+![antipodalHamming.jpg](https://raw.github.com/alexpacini/TIC/master/assignment04_noisyap2LHamm/antipodalHamming.jpg)

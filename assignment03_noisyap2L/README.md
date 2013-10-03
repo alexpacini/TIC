@@ -19,4 +19,4 @@
 ## antipodalQ2L.jpg
 
 > The plot of _antipodalQ2L.m_
-![antipodalQ2L.jpg](https://raw.github.com/alexpacini/Uni.Snippets/master/TIC/assignment03_noisyap2L/antipodalQ2L.jpg)
+![antipodalQ2L.jpg](https://raw.github.com/alexpacini/TIC/master/assignment03_noisyap2L/antipodalQ2L.jpg)

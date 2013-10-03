@@ -7,7 +7,7 @@
 ## efficiency.jpg
 
 >The plot of _symbol_energy_to_noise_vs_efficiency.m_
-![efficiency.jpg](https://raw.github.com/alexpacini/TIC/master/TIC/assignment02_apcap_numint/efficiency.jpg)
+![efficiency.jpg](https://raw.github.com/alexpacini/TIC/master/assignment02_apcap_numint/efficiency.jpg)
 
 ## mut_info1.m
 
@@ -43,4 +43,4 @@
 ## antipodal_capacity.jpg
 
 > The plot of _antipodal_capacity.m_
-![antipodal_capacity.jpg](https://raw.github.com/alexpacini/TIC/master/TIC/assignment02_apcap_numint/antipodal_capacity.jpg)
+![antipodal_capacity.jpg](https://raw.github.com/alexpacini/TIC/master/assignment02_apcap_numint/antipodal_capacity.jpg)
