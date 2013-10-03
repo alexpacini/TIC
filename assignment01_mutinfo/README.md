@@ -21,10 +21,10 @@
 ## BSC.jpg
 
 > A 3D output for BSC.m
-![BSC.jpg](https://raw.github.com/alexpacini/Uni.Snippets/master/TIC/assignment01_mutinfo/BSC.jpg)
+![BSC.jpg](https://raw.github.com/alexpacini/TIC/master/TIC/assignment01_mutinfo/BSC.jpg)
 
 > Thus, the channel capacity is
-![BSC.jpg](https://raw.github.com/alexpacini/Uni.Snippets/master/TIC/assignment01_mutinfo/C_BSC.jpg)
+![BSC.jpg](https://raw.github.com/alexpacini/TIC/master/TIC/assignment01_mutinfo/C_BSC.jpg)
 
 ## Dual_BSC
 
@@ -41,10 +41,10 @@
 ## Dual_BSC.jpg
 
 > A 3D output for Dual_BSC.m
-![BSC.jpg](https://raw.github.com/alexpacini/Uni.Snippets/master/TIC/assignment01_mutinfo/Dual_BSC.jpg)
+![BSC.jpg](https://raw.github.com/alexpacini/TIC/master/TIC/assignment01_mutinfo/Dual_BSC.jpg)
 
 > Thus, the channel capacity is
-![BSC.jpg](https://raw.github.com/alexpacini/Uni.Snippets/master/TIC/assignment01_mutinfo/C_Dual_BSC.jpg)
+![BSC.jpg](https://raw.github.com/alexpacini/TIC/master/TIC/assignment01_mutinfo/C_Dual_BSC.jpg)
 
 ## BEC
 
@@ -61,7 +61,7 @@
 ## BEC.jpg
 
 > A 3D output for BEC.m
-![BSC.jpg](https://raw.github.com/alexpacini/Uni.Snippets/master/TIC/assignment01_mutinfo/BEC.jpg)
+![BSC.jpg](https://raw.github.com/alexpacini/TIC/master/TIC/assignment01_mutinfo/BEC.jpg)
 
 > Thus, the channel capacity is
-![BSC.jpg](https://raw.github.com/alexpacini/Uni.Snippets/master/TIC/assignment01_mutinfo/C_BEC.jpg)
+![BSC.jpg](https://raw.github.com/alexpacini/TIC/master/TIC/assignment01_mutinfo/C_BEC.jpg)
