@@ -30,3 +30,6 @@ There is also a function for calculating the definite numerical integrals with d
 
 > A Matlab/ __Octave__ script that simulates an antipodal 2-level transmission 
 > over an AWGN channel using the Hamming block code.  
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexpacini/tic/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
